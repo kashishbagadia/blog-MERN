@@ -1,4 +1,4 @@
-# blog-MERN
+# Blog - MERN
 ### :dart: A MERN stack blogging web app, with user SignUp/Login
 
 ## Getting Started
